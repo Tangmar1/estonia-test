@@ -1,10 +1,9 @@
 html, body {
   height: 100%;
   width: 100%;
-  background-color: lemonchiffon;
 }
 .top{
-  background-color: #0072ce;
+  background-color: purple;
 }
 .mid{
   background-color:#000000; 
