@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.top{
+  background-color: #0072ce;
+}
+.mid{
+  background-color:#000000; 
+}
+.bottom{
+  background-color:#ffffff;
+}
+.rectangle{
+  width:800px;
+  height:150px;
+}
