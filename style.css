@@ -1,9 +1,10 @@
 html, body {
   height: 100%;
   width: 100%;
+  background-color: purple;
 }
 .top{
-  background-color: purple;
+  background-color: #0072ce;;
 }
 .mid{
   background-color:#000000; 
